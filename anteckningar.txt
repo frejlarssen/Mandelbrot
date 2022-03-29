@@ -1,0 +1,10 @@
+pluttens skärning:
+    small(-0.155, 1.032, -0.15)
+    width = 960
+    height = 540
+    depth = 128
+liten sak:
+    small(-0.1526, 1.0294, -0.1522)
+    width = 960
+    height = 540
+    depth = 128
